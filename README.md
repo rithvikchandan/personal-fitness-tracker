@@ -1,7 +1,3 @@
-Sure! Here's a more attractive and formatted version of your **README** file, which includes better structure, clearer instructions, and some added visual appeal.
-
----
-
 # **Personal Fitness Tracker Web App**
 
 ## 🎯 **Overview**
